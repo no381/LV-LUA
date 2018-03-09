@@ -1,0 +1,58 @@
+CREATETIME="2018-02-23 20:05:16";
+
+adaptResolution(640, 1136);
+adaptOrientation(ORIENTATION_TYPE.PORTRAIT);
+
+touchDown(3, 292.15, 881.43);
+usleep(499866.50);
+touchUp(3, 292.15, 881.43);
+usleep(6717518.25);
+touchUp(8, 20.88, 831.79);
+usleep(735495.33);
+
+touchDown(8, 44.25, 865.23);
+usleep(614584.79);
+touchUp(8, 44.25, 865.23);
+usleep(6883951.08);
+
+touchDown(3, 308.41, 914.87);
+usleep(833447.50);
+touchMove(3, 308.41, 911.82);
+usleep(16552.83);
+touchMove(3, 309.42, 911.82);
+usleep(16741.58);
+touchMove(3, 310.44, 911.82);
+usleep(33386.17);
+touchMove(3, 311.46, 910.81);
+usleep(16675.88);
+touchMove(3, 312.47, 909.79);
+usleep(16756.04);
+touchMove(3, 313.49, 909.79);
+usleep(16614.42);
+touchMove(3, 314.50, 908.79);
+usleep(16627.92);
+touchMove(3, 315.52, 906.76);
+usleep(16733.38);
+touchMove(3, 316.53, 905.74);
+usleep(16665.75);
+touchMove(3, 317.55, 904.73);
+usleep(16627.29);
+touchMove(3, 320.60, 901.70);
+usleep(16607.12);
+touchMove(3, 324.67, 897.64);
+usleep(16787.67);
+touchMove(3, 330.76, 891.56);
+usleep(16650.04);
+touchMove(3, 335.84, 886.49);
+usleep(16734.08);
+touchMove(3, 340.92, 881.43);
+usleep(16485.75);
+touchMove(3, 343.96, 878.38);
+usleep(16777.96);
+touchMove(3, 347.01, 876.35);
+usleep(16661.71);
+touchMove(3, 348.03, 876.35);
+usleep(16479.25);
+touchMove(3, 349.04, 876.35);
+usleep(216657.29);
+touchUp(3, 350.07, 877.38);
