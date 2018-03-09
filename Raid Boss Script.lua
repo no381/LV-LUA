@@ -9,7 +9,7 @@ banner2 = (258);
 banner3 = (86);
 
 -- Set Initial Banner to Use
-currentBanner = banner1;
+currentBanner = banner3;
 monthlyBanner = banner1;
 useBanner = currentBanner;
 scroll = false;
